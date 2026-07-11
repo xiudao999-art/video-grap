@@ -1,0 +1,711 @@
+{
+  "range": [
+    701,
+    800
+  ],
+  "total": 100,
+  "ok": 6,
+  "failed": 94,
+  "results": [
+    {
+      "idx": 701,
+      "title": "Off The Hook",
+      "artist": "Jeff Jarvis",
+      "status": "SKIPPED",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\0701_Off The Hook_Jeff Jarvis.mp3"
+    },
+    {
+      "idx": 702,
+      "title": "偷心（卡点DJ版）",
+      "artist": "DYYL.",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 703,
+      "title": "不值得 (DJ版)",
+      "artist": "梦飞船",
+      "status": "SKIPPED",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\0703_不值得 (DJ版)_梦飞船.mp3"
+    },
+    {
+      "idx": 704,
+      "title": "记事本(Remix)",
+      "artist": "DJ不眠星",
+      "status": "SKIPPED",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\0704_记事本(Remix)_DJ不眠星.mp3"
+    },
+    {
+      "idx": 705,
+      "title": "游京（DJKK版0.85X）",
+      "artist": "浅影阿",
+      "status": "SKIPPED",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\0705_游京（DJKK版0.85X）_浅影阿.mp3"
+    },
+    {
+      "idx": 706,
+      "title": "回心转意(激情版)",
+      "artist": "三叔的",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 707,
+      "title": "只为你着迷DJHZ版",
+      "artist": "李秉成",
+      "status": "OK",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\0707_只为你着迷DJHZ版_李秉成.mp3"
+    },
+    {
+      "idx": 708,
+      "title": "风喝了一口人间酒（青晚 Remix）",
+      "artist": "青晚",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 709,
+      "title": "我的回忆不是我的（Cover 梁湘宁）",
+      "artist": "小田田",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 710,
+      "title": "归零",
+      "artist": "魔鬼花园_李安健",
+      "status": "OK",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\0710_归零_魔鬼花园_李安健.mp3"
+    },
+    {
+      "idx": 711,
+      "title": "最远的你是我最近的爱(女版)",
+      "artist": "葛漂亮",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 712,
+      "title": "Sacred Play Secret Place",
+      "artist": "DJ阿智",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 713,
+      "title": "相见恨晚",
+      "artist": "旺仔加真露",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 714,
+      "title": "老男孩 (破碎版)（Cover 王小帅）",
+      "artist": "蓝天太阳下白云",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 715,
+      "title": "那年",
+      "artist": "任然",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 716,
+      "title": "相思断人魂",
+      "artist": "词曲创作人：张桂海",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 717,
+      "title": "你心咋那么狠",
+      "artist": "老韩很哇塞",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 718,
+      "title": "兄弟",
+      "artist": "任贤齐",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 719,
+      "title": "我走以后",
+      "artist": "水仙LONE",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 720,
+      "title": "这个年纪(这个年纪我已不再将就)",
+      "artist": "正在进行石女士",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 721,
+      "title": "哑巴新娘",
+      "artist": "孙艺琪",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 722,
+      "title": "仰望",
+      "artist": "阳山伟伟",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 723,
+      "title": "南无大愿地藏王菩萨",
+      "artist": "崔伟立",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 724,
+      "title": "小半（R&B）",
+      "artist": "梦境里的算法",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 725,
+      "title": "春泥 (微醺R&B版)（Cover 庾澄庆）",
+      "artist": "图钉姐",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 726,
+      "title": "最真的梦（女生版）",
+      "artist": "女同学",
+      "status": "FAIL",
+      "error": "WARNING: [youtube:search] 4162 bytes read. Retrying (1/3)...\nWARNING: [youtube:search] [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation o"
+    },
+    {
+      "idx": 727,
+      "title": "原来（77指导 Remix）",
+      "artist": "77指导",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 728,
+      "title": "怪咖",
+      "artist": "薛之谦",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 729,
+      "title": "写给黄淮（Live）",
+      "artist": "邵帅",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 730,
+      "title": "想你时风起（电视剧《我的人间烟火》回忆主题曲）",
+      "artist": "单依纯",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 731,
+      "title": "我独行在天地间",
+      "artist": "五凉十坊武威特产馆",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 732,
+      "title": "相逢已是上上签（破碎版）",
+      "artist": "青惋",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 733,
+      "title": "奔跑吧兄弟（Cover 筷子兄弟）",
+      "artist": "漫步属屋",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 734,
+      "title": "我想拥有一个女孩让我成为她的依靠（独钟花臂彦 Remix）",
+      "artist": "独钟花臂彦",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 735,
+      "title": "空空如也2025",
+      "artist": "米籽Mimia",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 736,
+      "title": "好心分手（Cover 王力宏 & 卢巧音）",
+      "artist": "唐小翊",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 737,
+      "title": "起鼓锁小人（动感版）",
+      "artist": "DJ鬼鬼",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 738,
+      "title": "阿龙还爱着阿彪",
+      "artist": "YAETC",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 739,
+      "title": "逃爱",
+      "artist": "吉他的天空",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 740,
+      "title": "我记得我爱过（Cover 何润东）",
+      "artist": "魔的街",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 741,
+      "title": "一滴泪的时间（昨夜梦游版）",
+      "artist": "昨夜梦游",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 742,
+      "title": "天赋(《锦绣未央》电视剧片尾曲)",
+      "artist": "唐嫣,罗晋",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 743,
+      "title": "忘川河",
+      "artist": "是苏尘吖",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 744,
+      "title": "叹云兮 (Live)",
+      "artist": "鞠婧祎",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 745,
+      "title": "又烧又狠的反派（卡点节奏版）",
+      "artist": "AvenK",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 746,
+      "title": "盛开吧(DJHZ版)",
+      "artist": "李家鑫",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 747,
+      "title": "同手同脚",
+      "artist": "井胧,井迪",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 748,
+      "title": "下辈子不做谁的妻",
+      "artist": "魏佳艺",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 749,
+      "title": "在你的身边（DJ）（Shuyuan Garden园园 & 夏灵君 Remix）",
+      "artist": "Shuyuan Garden园园,夏灵君",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 750,
+      "title": "你把我当什么(节奏版)（Cover 六小乐）",
+      "artist": "沧桑小杰Official",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 751,
+      "title": " 爱上你我很快乐（Cover 水木年华）",
+      "artist": "出岫无心",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 752,
+      "title": "晚风(烟嗓版)",
+      "artist": "烟腔李子",
+      "status": "FAIL",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '0', '--no-playlist', '-o', 'D:\\\\video-grap\\\\Downlo"
+    },
+    {
+      "idx": 753,
+      "title": "那个女孩",
+      "artist": "宝石Gem",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 754,
+      "title": "还是分开（DJ旋律）（Shuyuan Garden园园 & 夏灵君 Remix）",
+      "artist": "Shuyuan Garden园园,夏灵君",
+      "status": "FAIL",
+      "error": "WARNING: [youtube:search] 169271 bytes read. Retrying (1/3)...\nWARNING: [youtube:search] [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation"
+    },
+    {
+      "idx": 755,
+      "title": "I Need You",
+      "artist": "AILEE",
+      "status": "FAIL",
+      "error": "WARNING: [youtube:search] [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032). Retrying (1/3)...\nWARNING: [youtube"
+    },
+    {
+      "idx": 756,
+      "title": "爱的可能（R&B）",
+      "artist": "梦境里的算法",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 757,
+      "title": "爱有奇迹 - 《因为爱情有奇迹》电视剧主题曲",
+      "artist": "迪克牛仔",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 758,
+      "title": "情人（粤语）（Cover Beyond）",
+      "artist": "辰峰",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 759,
+      "title": "辞·九门回忆",
+      "artist": "冰幽,解忧草",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 760,
+      "title": "舍不得放下（Cover 刘书云）",
+      "artist": "枫叶青",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 761,
+      "title": "清明上河图 (DJ花子默版)（Cover DJ花子默）",
+      "artist": "小昕",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 762,
+      "title": "谁明浪子心(动感氛围版)",
+      "artist": "Zxxy,叶子舒",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 763,
+      "title": "只对你有感觉(DJ版)",
+      "artist": "DJ尤罗",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 764,
+      "title": "是非题（烟嗓版）（Cover 范玮琪）",
+      "artist": "烟嗓哥",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 765,
+      "title": "女儿心如水（小扇流萤满园的笑语）",
+      "artist": "黄龄",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 766,
+      "title": "永远永远 (R&B微醺版)（Cover 李翊君）",
+      "artist": "大头钉",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 767,
+      "title": "望川望月望自由",
+      "artist": "王一佳",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 768,
+      "title": "梦幻诛仙",
+      "artist": "张碧晨",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 769,
+      "title": "Babe,l must be in love with you",
+      "artist": "音融三喜",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 770,
+      "title": "为了你我犯下罪",
+      "artist": "转运",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 771,
+      "title": "天亮了（烟嗓男版）（大头针 Remix）",
+      "artist": "大头针",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 772,
+      "title": "Amani（77指导 Remix）",
+      "artist": "77指导",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 773,
+      "title": "转弯 (R&B版)（Cover 茯苓）",
+      "artist": "大头针",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 774,
+      "title": "你从未离去（DJ）（柠檬味的夏樱 & 夏灵君 Remix）",
+      "artist": "柠檬味的夏樱,夏灵君",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 775,
+      "title": "像晴天像雨天（电视剧《难哄》心动曲）",
+      "artist": "汪苏泷",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 776,
+      "title": "你从未离去",
+      "artist": "白挺,熊出没",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 777,
+      "title": "Sacred Play Secret Place（飞驰人生进行曲）",
+      "artist": "AvenK",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 778,
+      "title": "我从草原来",
+      "artist": "凤凰传奇",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 779,
+      "title": "再度重相逢（Cover 孙露）",
+      "artist": "孙书林",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 780,
+      "title": "故乡的风来了又走",
+      "artist": "一吻",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 781,
+      "title": "没在最好的年纪遇见你(遗憾版)（Cover 烟嗓超哥）",
+      "artist": "沧桑小杰Official",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 782,
+      "title": "一剪梅（DJAh Remix）",
+      "artist": "DJAh",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 783,
+      "title": "上头的进行曲",
+      "artist": "DJ7HG,吉伍阿娃",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 784,
+      "title": "盛夏的果实（Cover 莫文蔚）",
+      "artist": "lucky兄弟",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 785,
+      "title": "兜兜转转",
+      "artist": "小京东",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 786,
+      "title": "渐冷(你能不能再爱我一遍像从前）",
+      "artist": "大头针",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 787,
+      "title": "小半（Cover 陈粒）",
+      "artist": "杨恬恬",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 788,
+      "title": " 我会好好的（Cover 王心凌）",
+      "artist": "曦曦",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 789,
+      "title": "欠了心上人负了枕边人（Cover 艺凌）",
+      "artist": "大头针",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 790,
+      "title": "痛痛快快醉一回",
+      "artist": "魏佳艺",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 791,
+      "title": "还爱着你（Cover 文夫）",
+      "artist": "寂寞阿明",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 792,
+      "title": "deritnm sm",
+      "artist": "Modan",
+      "status": "FAIL",
+      "error": ""
+    },
+    {
+      "idx": 793,
+      "title": "若月亮没来（live）",
+      "artist": "杨宗纬,宝石Gem,王宇宙Leto",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 794,
+      "title": "世面（撕裂男版）",
+      "artist": "在梦里算法",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 795,
+      "title": "花开花落",
+      "artist": "孙艺琪",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 796,
+      "title": "如果天有情",
+      "artist": "Dave",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 797,
+      "title": "座位（DJ小邱版）",
+      "artist": "于冬然",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 798,
+      "title": "就让雪替你陪我白头",
+      "artist": "沧桑小杰",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 799,
+      "title": "爱人错过",
+      "artist": "告五人",
+      "status": "FAIL",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME["
+    },
+    {
+      "idx": 800,
+      "title": "只要有你（烟嗓版）（Cover 那英 & 孙楠）",
+      "artist": "清栖",
+      "status": "FAIL",
+      "error": ""
+    }
+  ]
+}

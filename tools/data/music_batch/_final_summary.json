@@ -1,0 +1,308 @@
+{
+  "total_songs": 1000,
+  "downloaded_mp3_files": 218,
+  "from_reports_ok": 57,
+  "from_reports_failed": 643,
+  "failed_songs": [
+    {
+      "idx": 103,
+      "title": "默（年少时候虔诚发过的誓）",
+      "artist": "谢迟迟,DJ阿智",
+      "error": ""
+    },
+    {
+      "idx": 106,
+      "title": "熬过冬天熬不过思念（Cover 六小乐）",
+      "artist": "暖心姐",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 107,
+      "title": "水手急急如律令（Cover 陈言）",
+      "artist": "姆知起咩名猴",
+      "error": ""
+    },
+    {
+      "idx": 111,
+      "title": "曾经是情侣(live)",
+      "artist": "梁博",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 112,
+      "title": "爆了 (酱桃摇)",
+      "artist": "DHC77",
+      "error": ""
+    },
+    {
+      "idx": 113,
+      "title": "世界第一等(Live)",
+      "artist": "伍佰 & China Blue",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 114,
+      "title": "画心（DJ）",
+      "artist": "DYYL.",
+      "error": ""
+    },
+    {
+      "idx": 115,
+      "title": "晚秋 (新版)（晴晚 Remix）",
+      "artist": "晴晚",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 116,
+      "title": "游山恋（DJKK版）",
+      "artist": "浅影阿,联合音乐",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 117,
+      "title": "十面埋伏",
+      "artist": "陈奕迅",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 118,
+      "title": "春风你不懂我的伤悲（烟嗓版）（图钉姐 Remix）",
+      "artist": "图钉姐",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 119,
+      "title": "雨过后的风景（子弹头 Remix）",
+      "artist": "子弹头",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 120,
+      "title": "你想要的",
+      "artist": "颜人中",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 121,
+      "title": "生生世世爱（顶级旋律DJ）",
+      "artist": "DYYL.",
+      "error": ""
+    },
+    {
+      "idx": 122,
+      "title": "大眠（DJ）",
+      "artist": "DJ铁丝Remix",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 123,
+      "title": "十年",
+      "artist": "陈奕迅",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 124,
+      "title": "可不可以",
+      "artist": "张紫豪",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 125,
+      "title": "做夫妻和你相遇太晩（烟嗓版）（女同学 Remix）",
+      "artist": "女同学",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 126,
+      "title": "只要有你 - 女生版",
+      "artist": "赵十三",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 127,
+      "title": "这一生爱上什么人都不为过 (放弃什么也不算错)",
+      "artist": "請發財",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 128,
+      "title": "如愿",
+      "artist": "王菲",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 129,
+      "title": "You Are Beautiful（DJ阿智版）",
+      "artist": "DJ阿布,DJ阿智",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 130,
+      "title": "座位",
+      "artist": "于冬然",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 131,
+      "title": "别怕我伤心(DJ版)",
+      "artist": "七喜",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 132,
+      "title": "先说谎的人（苍白的话语刺痛着耳朵）",
+      "artist": "张鑫,h3R3",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 133,
+      "title": "伤心的人走不出回忆（烟嗓版）（青墨 Remix）",
+      "artist": "青墨",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 134,
+      "title": "藕断丝连",
+      "artist": "陈瑞",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 135,
+      "title": "天亮以前说再见（雪花多舍不得冬天）",
+      "artist": "四熹丸子",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 136,
+      "title": "我的心是一朵柔软的云",
+      "artist": "爆辣螺蛳粉",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 137,
+      "title": "我醉倚楼台",
+      "artist": "轩轩",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 138,
+      "title": "Pao Mo",
+      "artist": "G.E.M. 邓紫棋",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 139,
+      "title": "终湮队歌",
+      "artist": "阿吉野马",
+      "error": ""
+    },
+    {
+      "idx": 140,
+      "title": "Take me hand",
+      "artist": "DAISHI DANCE",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 141,
+      "title": "红颜知己",
+      "artist": "影子",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 142,
+      "title": "擦肩而过",
+      "artist": "胡雯,宇桐非",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 143,
+      "title": "是非题 (R&B男版)（Cover 范玮琪）",
+      "artist": "大头钉",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 144,
+      "title": "小宝",
+      "artist": "宝石Gem",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 145,
+      "title": "南山南（2025爆火版）（Cover 小馨饱饱）",
+      "artist": "善善",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 146,
+      "title": "迷人的危险",
+      "artist": "dance flow",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 147,
+      "title": "受伤的是我(原版)（Cover 马健涛）",
+      "artist": "大头针 Offieanial",
+      "error": ""
+    },
+    {
+      "idx": 148,
+      "title": "入戏太深（Cover 马旭东）",
+      "artist": "阿鑫",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 149,
+      "title": "暗恋过 结局呢",
+      "artist": "新街口组合,Mona Lavi",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 150,
+      "title": "半点心（DJ阿智Remix）",
+      "artist": "DJ阿智",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 151,
+      "title": "勇气",
+      "artist": "梁静茹",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 152,
+      "title": "如果再遇到爱的人",
+      "artist": "刘宏宇Honey L",
+      "error": "Command '['C:/Users/VAIO/.local/bin/yt-dlp.exe', '-x', '--audio-format', 'mp3', '--audio-quality', '"
+    },
+    {
+      "idx": 153,
+      "title": "半点心(DJAh版)",
+      "artist": "DJAh",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 154,
+      "title": "Zero Hour (末日时刻)",
+      "artist": "Klinn,VodKe",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 155,
+      "title": "雨爱（DJ阿智Remix）",
+      "artist": "DJ阿智",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 156,
+      "title": "Ashes Whisper",
+      "artist": "暗号,小表哥",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    },
+    {
+      "idx": 157,
+      "title": "千千阙歌（DJAh Remix）",
+      "artist": "DJAh",
+      "error": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; "
+    }
+  ]
+}

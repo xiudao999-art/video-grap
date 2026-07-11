@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "茶花开了，该回家了",
+    "artist": "王睿卓,加木",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0001_茶花开了，该回家了_王睿卓,加木.mp3"
+  },
+  {
+    "id": 2,
+    "title": "雨过后的风景",
+    "artist": "Dizzy Dizzo (蔡诗芸)",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0002_雨过后的风景_Dizzy Dizzo (蔡诗芸).mp3"
+  },
+  {
+    "id": 3,
+    "title": "小半",
+    "artist": "陈粒",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0003_小半_陈粒.mp3"
+  },
+  {
+    "id": 4,
+    "title": "咏春（DJ版）",
+    "artist": "DJ阿布",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0004_咏春（DJ版）_DJ阿布.mp3"
+  },
+  {
+    "id": 5,
+    "title": "大风在刮大雪在下（海的滋味 Remix）",
+    "artist": "海的滋味",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0005_大风在刮大雪在下（海的滋味 Remix）_海的滋味.mp3"
+  },
+  {
+    "id": 6,
+    "title": "爆了（慢摇DJ版）",
+    "artist": "DYYL.",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0006_爆了（慢摇DJ版）_DYYL.mp3"
+  },
+  {
+    "id": 7,
+    "title": "欧若拉（0.9x降调版）",
+    "artist": "DHC77",
+    "status": "failed",
+    "error": "yt-dlp exit 0: "
+  },
+  {
+    "id": 8,
+    "title": "我们的纪念（放羊的星星氛围beat）（PPR Remix）",
+    "artist": "PPR",
+    "status": "failed",
+    "error": "yt-dlp exit 1: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction"
+  },
+  {
+    "id": 9,
+    "title": "恋人",
+    "artist": "李荣浩",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0009_恋人_李荣浩.mp3"
+  },
+  {
+    "id": 10,
+    "title": "游京（滔滔江水）",
+    "artist": "泽国同学",
+    "status": "success",
+    "path": "D:\\video-grap\\Downloaded\\music_batch\\0010_游京（滔滔江水）_泽国同学.mp3"
+  }
+]

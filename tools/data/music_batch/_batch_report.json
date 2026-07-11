@@ -1,0 +1,394 @@
+{
+  "timestamp": "2026-07-09T02:51:03",
+  "total": 18,
+  "success": 5,
+  "skipped": 0,
+  "failed": 10,
+  "manual": 3,
+  "pending": 0,
+  "songs": [
+    {
+      "id": 1,
+      "title": "雨过后的风景",
+      "artist": "Dizzy Dizzo",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/music/2290206",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "xiagebao",
+          "type": "mp3",
+          "url": "https://www.xiagebao.com/music/2290206",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "bilibili",
+          "type": "ytdlp",
+          "url": "https://www.bilibili.com/video/BV1q9rTB9EfV",
+          "status": "failed",
+          "error": "yt-dlp exit 1: ERROR: [BiliBili] 1q9rTB9EfV: Unable to download JSON metadata: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)\n"
+        }
+      ],
+      "notes": "B站音频为备选"
+    },
+    {
+      "id": 2,
+      "title": "咏春（DJ版）",
+      "artist": "DJ阿布",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/s/咏春",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "jbmp3",
+          "type": "mp3",
+          "url": "https://www.jbmp3.com/music/33152623",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "fangpi",
+          "type": "mp3",
+          "url": "https://www.fangpi.net/s/咏春",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "多源备选"
+    },
+    {
+      "id": 3,
+      "title": "大风在刮大雪在下（海的滋味 Remix）",
+      "artist": "海的滋味",
+      "status": "success",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\03_大风在刮大雪在下（海的滋味 Remix）_海的滋味.mp3",
+      "source_used": {
+        "type": "ytdlp",
+        "site": "youtube",
+        "url": "https://www.youtube.com/watch?v=t3DlmaCpz18"
+      },
+      "attempts": [
+        {
+          "site": "youtube",
+          "type": "ytdlp",
+          "url": "https://www.youtube.com/watch?v=t3DlmaCpz18",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "notes": "替代版本：DJ魅音版(YouTube)，兄弟对唱版(NhacCuaTui无法直接下载)"
+    },
+    {
+      "id": 4,
+      "title": "我们的纪念（PPR Remix）",
+      "artist": "PPR",
+      "status": "success",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\04_我们的纪念（PPR Remix）_PPR.mp3",
+      "source_used": {
+        "type": "ytdlp",
+        "site": "youtube",
+        "url": "https://www.youtube.com/watch?v=5KIc4gRTuiM"
+      },
+      "attempts": [
+        {
+          "site": "youtube",
+          "type": "ytdlp",
+          "url": "https://www.youtube.com/watch?v=5KIc4gRTuiM",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "notes": "Remix版本，YouTube为主源"
+    },
+    {
+      "id": 5,
+      "title": "传奇（Remix）",
+      "artist": "DJ不眠星",
+      "status": "success",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\05_传奇（Remix）_DJ不眠星.mp3",
+      "source_used": {
+        "type": "ytdlp",
+        "site": "youtube",
+        "url": "https://www.youtube.com/watch?v=k6FNlMjVlPM"
+      },
+      "attempts": [
+        {
+          "site": "youtube",
+          "type": "ytdlp",
+          "url": "https://www.youtube.com/watch?v=k6FNlMjVlPM",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "notes": "YouTube有视频，汽水音乐需用douyin引擎"
+    },
+    {
+      "id": 6,
+      "title": "爆了（慢摇DJ版）",
+      "artist": "DYYL.",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "fangpi",
+          "type": "mp3",
+          "url": "https://www.fangpi.net/s/爆了(慢摇DJ版)",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "放屁音乐为主源"
+    },
+    {
+      "id": 7,
+      "title": "美丽的神话（宿命感DJ）",
+      "artist": "DYYL.",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/music/62336368",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "fangpi",
+          "type": "mp3",
+          "url": "https://www.fangpi.net/s/美丽的神话 宿命dj dyyl",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "qishui",
+          "type": "douyin",
+          "url": "https://www.douyin.com/qishui/song/7602442169911625729",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "多源备选，包括汽水音乐"
+    },
+    {
+      "id": 8,
+      "title": "我是真的爱上你",
+      "artist": "正在进行石女士",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/s/我是真的爱上你 正在进行石女士",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "歌曲宝为主源"
+    },
+    {
+      "id": 9,
+      "title": "失眠",
+      "artist": "Suki刘舒妤",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/s/失眠 suki刘舒妤",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "fangpi",
+          "type": "mp3",
+          "url": "https://www.fangpi.net/s/失眠 suki",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "双源备选"
+    },
+    {
+      "id": 10,
+      "title": "一半一半",
+      "artist": "Top Barry, INDEcompany",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/s/一半一半 top barry",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "fangpi",
+          "type": "mp3",
+          "url": "https://www.fangpi.net/s/一半一半",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "双源备选"
+    },
+    {
+      "id": 11,
+      "title": "傻女（DJ）",
+      "artist": "DJ铁丝Remix",
+      "status": "success",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\11_傻女（DJ）_DJ铁丝Remix.mp3",
+      "source_used": {
+        "type": "ytdlp",
+        "site": "youtube",
+        "url": "ytsearch:傻女 DJ铁丝Remix"
+      },
+      "attempts": [
+        {
+          "site": "youtube",
+          "type": "ytdlp",
+          "url": "ytsearch:傻女 DJ铁丝Remix",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "notes": "无直接链接，用ytsearch搜索"
+    },
+    {
+      "id": 12,
+      "title": "雪花雪花你慢慢落（女同学 Remix）",
+      "artist": "女同学",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "gequbao",
+          "type": "mp3",
+          "url": "https://www.gequbao.com/music/60075953",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        },
+        {
+          "site": "fangpi",
+          "type": "mp3",
+          "url": "https://www.fangpi.net/music/33282215",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "未找到女同学版本，用沧桑小杰/榴莲妹版替代"
+    },
+    {
+      "id": 13,
+      "title": "欧若拉（0.9x降调版）",
+      "artist": "DHC77",
+      "status": "manual",
+      "path": null,
+      "source_used": null,
+      "attempts": [],
+      "notes": "抖音/汽水音乐独占，第三方平台无资源，需手动从APP下载"
+    },
+    {
+      "id": 14,
+      "title": "茶花开了，该回家了",
+      "artist": "王睿卓, 加木",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "29xf",
+          "type": "mp3",
+          "url": "https://www.29xf.com/song/208792",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "未找到人声正式版，仅找到伴奏版"
+    },
+    {
+      "id": 15,
+      "title": "Dear D（甜蜜版）",
+      "artist": "项睿娴",
+      "status": "manual",
+      "path": null,
+      "source_used": null,
+      "attempts": [],
+      "notes": "Spotify/Apple Music独占，无免费下载链接，需购买或使用官方APP"
+    },
+    {
+      "id": 16,
+      "title": "第二十九个晴天",
+      "artist": "小表哥",
+      "status": "manual",
+      "path": null,
+      "source_used": null,
+      "attempts": [],
+      "notes": "抖音原创/小众歌手，第三方平台无资源，需手动从APP下载"
+    },
+    {
+      "id": 17,
+      "title": "开工",
+      "artist": "nice",
+      "status": "failed",
+      "path": null,
+      "source_used": null,
+      "attempts": [
+        {
+          "site": "douyin",
+          "type": "douyin",
+          "url": "https://www.douyin.com/video/7612874836800915482",
+          "status": "pending",
+          "error": "Handler not implemented yet"
+        }
+      ],
+      "notes": "通过抖音视频ID下载"
+    },
+    {
+      "id": 18,
+      "title": "游京（鼓点DJ版）",
+      "artist": "請發財",
+      "status": "success",
+      "path": "D:\\video-grap\\Downloaded\\music_batch\\18_游京（鼓点DJ版）_請發財.mp3",
+      "source_used": {
+        "type": "ytdlp",
+        "site": "jiosaavn",
+        "url": "https://www.jiosaavn.com/song/游京-dj阿农版/ATE5fiJRYno"
+      },
+      "attempts": [
+        {
+          "site": "jiosaavn",
+          "type": "ytdlp",
+          "url": "https://www.jiosaavn.com/song/游京-dj阿农版/ATE5fiJRYno",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "notes": "未找到請發財版本，用JioSaavn DJ阿农版替代"
+    }
+  ]
+}
