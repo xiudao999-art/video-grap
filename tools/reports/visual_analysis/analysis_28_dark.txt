@@ -1,0 +1,1 @@
+[ERROR] Ark API 400: {"error":{"code":"InvalidParameter","message":"Image 0 failed: Image exceeds the maximum allowed total pixels. Current dimensions: 1440x111126 = 160021440 pixels. Maximum allowed: 36000000 pixels. Request id: 0217835923153684f01ec66621d0980a42fd45436ed7595ed4bb8","param":"","type":"BadRequest"}}
