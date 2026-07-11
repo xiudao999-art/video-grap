@@ -1,0 +1,49 @@
+{
+  "name": "Design Template Extraction",
+  "baseSelector": "body",
+  "fields": [
+    {
+      "name": "title",
+      "selector": "h1, .title, [class*='title'], [class*='heading']",
+      "type": "text"
+    },
+    {
+      "name": "description",
+      "selector": ".description, [class*='desc'], [class*='summary'], meta[name='description']",
+      "type": "text"
+    },
+    {
+      "name": "designer",
+      "selector": ".designer, .author, [class*='designer'], [class*='author'], [class*='creator']",
+      "type": "text"
+    },
+    {
+      "name": "images",
+      "selector": "img[src]:not([src*='icon']):not([src*='logo'])",
+      "type": "list",
+      "attributes": ["src", "alt"]
+    },
+    {
+      "name": "tags",
+      "selector": ".tag, [class*='tag'], [class*='category'], [class*='label']",
+      "type": "list",
+      "transform": "text"
+    },
+    {
+      "name": "colors",
+      "selector": "[class*='color'], [style*='color'], [style*='background']",
+      "type": "list",
+      "attributes": ["style", "class"]
+    },
+    {
+      "name": "price",
+      "selector": ".price, [class*='price'], [class*='cost']",
+      "type": "text"
+    },
+    {
+      "name": "platform",
+      "selector": ".platform, [class*='platform'], [class*='cms'], [class*='builder']",
+      "type": "text"
+    }
+  ]
+}

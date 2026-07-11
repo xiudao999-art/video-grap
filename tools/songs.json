@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "雨过后的风景",
+    "artist": "Dizzy Dizzo",
+    "category": "mp3",
+    "notes": "B站音频为备选",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/music/2290206"},
+      {"type": "mp3", "site": "xiagebao", "url": "https://www.xiagebao.com/music/2290206"},
+      {"type": "ytdlp", "site": "bilibili", "url": "https://www.bilibili.com/video/BV1q9rTB9EfV"}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "咏春（DJ版）",
+    "artist": "DJ阿布",
+    "category": "mp3",
+    "notes": "多源备选",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/s/咏春"},
+      {"type": "mp3", "site": "jbmp3", "url": "https://www.jbmp3.com/music/33152623"},
+      {"type": "mp3", "site": "fangpi", "url": "https://www.fangpi.net/s/咏春"}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "大风在刮大雪在下（海的滋味 Remix）",
+    "artist": "海的滋味",
+    "category": "ytdlp",
+    "notes": "替代版本：DJ魅音版(YouTube)，兄弟对唱版(NhacCuaTui无法直接下载)",
+    "sources": [
+      {"type": "ytdlp", "site": "youtube", "url": "https://www.youtube.com/watch?v=t3DlmaCpz18"}
+    ]
+  },
+  {
+    "id": 4,
+    "title": "我们的纪念（PPR Remix）",
+    "artist": "PPR",
+    "category": "ytdlp",
+    "notes": "Remix版本，YouTube为主源",
+    "sources": [
+      {"type": "ytdlp", "site": "youtube", "url": "https://www.youtube.com/watch?v=5KIc4gRTuiM"}
+    ]
+  },
+  {
+    "id": 5,
+    "title": "传奇（Remix）",
+    "artist": "DJ不眠星",
+    "category": "mixed",
+    "notes": "YouTube有视频，汽水音乐需用douyin引擎",
+    "sources": [
+      {"type": "ytdlp", "site": "youtube", "url": "https://www.youtube.com/watch?v=k6FNlMjVlPM"},
+      {"type": "douyin", "site": "qishui", "url": "https://qishui.douyin.com/s/i65Rwc1V"}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "爆了（慢摇DJ版）",
+    "artist": "DYYL.",
+    "category": "mp3",
+    "notes": "放屁音乐为主源",
+    "sources": [
+      {"type": "mp3", "site": "fangpi", "url": "https://www.fangpi.net/s/爆了(慢摇DJ版)"}
+    ]
+  },
+  {
+    "id": 7,
+    "title": "美丽的神话（宿命感DJ）",
+    "artist": "DYYL.",
+    "category": "mp3",
+    "notes": "多源备选，包括汽水音乐",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/music/62336368"},
+      {"type": "mp3", "site": "fangpi", "url": "https://www.fangpi.net/s/美丽的神话 宿命dj dyyl"},
+      {"type": "douyin", "site": "qishui", "url": "https://www.douyin.com/qishui/song/7602442169911625729"}
+    ]
+  },
+  {
+    "id": 8,
+    "title": "我是真的爱上你",
+    "artist": "正在进行石女士",
+    "category": "mp3",
+    "notes": "歌曲宝为主源",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/s/我是真的爱上你 正在进行石女士"}
+    ]
+  },
+  {
+    "id": 9,
+    "title": "失眠",
+    "artist": "Suki刘舒妤",
+    "category": "mp3",
+    "notes": "双源备选",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/s/失眠 suki刘舒妤"},
+      {"type": "mp3", "site": "fangpi", "url": "https://www.fangpi.net/s/失眠 suki"}
+    ]
+  },
+  {
+    "id": 10,
+    "title": "一半一半",
+    "artist": "Top Barry, INDEcompany",
+    "category": "mp3",
+    "notes": "双源备选",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/s/一半一半 top barry"},
+      {"type": "mp3", "site": "fangpi", "url": "https://www.fangpi.net/s/一半一半"}
+    ]
+  },
+  {
+    "id": 11,
+    "title": "傻女（DJ）",
+    "artist": "DJ铁丝Remix",
+    "category": "ytdlp",
+    "notes": "无直接链接，用ytsearch搜索",
+    "sources": [
+      {"type": "ytdlp", "site": "youtube", "url": "ytsearch:傻女 DJ铁丝Remix"}
+    ]
+  },
+  {
+    "id": 12,
+    "title": "雪花雪花你慢慢落（女同学 Remix）",
+    "artist": "女同学",
+    "category": "mp3",
+    "notes": "未找到女同学版本，用沧桑小杰/榴莲妹版替代",
+    "sources": [
+      {"type": "mp3", "site": "gequbao", "url": "https://www.gequbao.com/music/60075953"},
+      {"type": "mp3", "site": "fangpi", "url": "https://www.fangpi.net/music/33282215"}
+    ]
+  },
+  {
+    "id": 13,
+    "title": "欧若拉（0.9x降调版）",
+    "artist": "DHC77",
+    "category": "manual",
+    "notes": "抖音/汽水音乐独占，第三方平台无资源，需手动从APP下载",
+    "sources": []
+  },
+  {
+    "id": 14,
+    "title": "茶花开了，该回家了",
+    "artist": "王睿卓, 加木",
+    "category": "mp3",
+    "notes": "未找到人声正式版，仅找到伴奏版",
+    "sources": [
+      {"type": "mp3", "site": "29xf", "url": "https://www.29xf.com/song/208792"}
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Dear D（甜蜜版）",
+    "artist": "项睿娴",
+    "category": "manual",
+    "notes": "Spotify/Apple Music独占，无免费下载链接，需购买或使用官方APP",
+    "sources": []
+  },
+  {
+    "id": 16,
+    "title": "第二十九个晴天",
+    "artist": "小表哥",
+    "category": "manual",
+    "notes": "抖音原创/小众歌手，第三方平台无资源，需手动从APP下载",
+    "sources": []
+  },
+  {
+    "id": 17,
+    "title": "开工",
+    "artist": "nice",
+    "category": "douyin",
+    "notes": "通过抖音视频ID下载",
+    "sources": [
+      {"type": "douyin", "site": "douyin", "url": "https://www.douyin.com/video/7612874836800915482"}
+    ]
+  },
+  {
+    "id": 18,
+    "title": "游京（鼓点DJ版）",
+    "artist": "請發財",
+    "category": "ytdlp",
+    "notes": "未找到請發財版本，用JioSaavn DJ阿农版替代",
+    "sources": [
+      {"type": "ytdlp", "site": "jiosaavn", "url": "https://www.jiosaavn.com/song/游京-dj阿农版/ATE5fiJRYno"}
+    ]
+  }
+]

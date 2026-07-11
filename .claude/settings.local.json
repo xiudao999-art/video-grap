@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(deep-research)",
+      "Skill(deep-research:*)",
+      "Workflow(deep-research)",
+      "Bash(cd D:/video-grap && rm -rf hybrid-browser-crawler/.git 2>/dev/null && echo \"removed .git\" && head -5 .claude/settings.local.json 2>/dev/null)"
+    ],
+    "additionalDirectories": [
+      "D:\\video-grap\\hybrid-browser-crawler\\.git"
+    ]
+  }
+}

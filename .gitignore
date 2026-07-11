@@ -1,0 +1,97 @@
+# === 本地资源/产物（不提交） ===
+Downloaded/
+config/
+douyin-downloader/
+image-tools/
+tmp/
+references/
+video/
+hybrid-browser-crawler/cloak-test/
+
+# === 敏感文件 ===
+*.json 包含 cookies/token
+config/*.json
+
+# === 第三方工具 ===
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# === 原始数据文件 ===
+*.xlsx
+
+# === 临时/日志文件 ===
+.*.log
+.*.txt
+.*.json
+.tavily_*
+.research_*
+.nicepage_*
+.templateshub*
+.templatemonster*
+.w3layouts*
+.download_*
+.extract_*
+.generate_*
+.see_screen_*
+.run.log
+.douyin_*
+
+# === 大文件 ===
+*.mp3
+*.mp4
+*.png
+*.jpg
+*.webp
+*.zip
+*.pdf
+
+# === 临时探索/测试脚本（tools/中） ===
+tools/probe_*.py
+tools/test_*.py
+tools/extract_*.py
+tools/research_*.py
+tools/search_*.py
+tools/tavily_search*.py
+tools/inspect_excel*.py
+tools/read_song_list.py
+tools/combine_song_plans.py
+tools/generate_*.py
+tools/curate_top30_templates.py
+tools/explore_template_usage.py
+tools/screenshot_templates.py
+tools/download_song_plans.py
+tools/download_templates.py
+tools/download_templates_auto.py
+tools/download_top20_free_templates.py
+tools/download_2_startbootstrap.py
+tools/download_8_more_html5up.py
+tools/generate_download_report.py
+tools/generate_template_report.py
+tools/generate_top20_free_report.py
+tools/search_templates_tavily.py
+tools/search_templatemo.py
+tools/search_more_downloadable_templates.py
+tools/music_batch_download_phase1.py
+tools/cleanup_workspace.py
+tools/cleanup_workspace2.py
+tools/xrqu_apitest.py
+tools/xrqu_dl_probe.py
+tools/xrqu_dl_probe2.py
+tools/xrqu_dl_click_probe.py
+tools/xrqu_dl_endpoint_probe.py
+tools/xrqu_probe.py
+tools/xrqu_probe2.py
+tools/xrqu_video_probe.py
+tools/xrqu_refetch.py
+tools/xrqu_login.py
+tools/xrqu_manifest.py
+tools/xrqu_manifest_pw.py
+tools/aigei_set_probe.py
+tools/aigei_vjshi_probe.py
+tools/aigei_login.py
+
+# === OS ===
+.DS_Store
+Thumbs.db
